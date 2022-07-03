@@ -1,12 +1,4 @@
-const someNumbers = [199, 424, 61, 21, 31, 51, 63, 87, 283, 34, 0];
-
-const numbers = () => someNumbers.map(n => n);
-
-const swap = (array, i, j) => {
-  let temp = array[j]
-  array[j] = array[i];
-  array[i] = temp;
-}
+const { swap } = require('./helper');
 
 const bubbleSort = (array) => {
   const length = array.length;
@@ -50,4 +42,4 @@ const insertionSort = (array) => {
 
 
 
-module.exports = { insertionSort, selectionSort, bubbleSort, numbers }
+module.exports = { insertionSort, selectionSort, bubbleSort }
