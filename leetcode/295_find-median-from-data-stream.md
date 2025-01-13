@@ -79,7 +79,10 @@ console.log(mf.findMedian()); // Output: 2
 
 
 ### Implementation
-Note: We would need a [MinHeap and Maxheap](../helpers/heap.js) as it is not build in in javascript
+Note: 
+- We would need a [MinHeap and Maxheap](../helpers/heap.js) as it is not build in in javascript.
+- In Java we can use PriorityQueue
+- In Python heappush/heappush operations can be used
 ```javascript
 class MedianFinder {
   constructor() {
