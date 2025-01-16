@@ -56,7 +56,7 @@ function maxSubArray(nums) {
 }
 
 
-module.exports = () => {
+if (require.main === module) { 
   //https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
   console.log(maxProfit([1, 2, 3, 0, 2])); // 2
   

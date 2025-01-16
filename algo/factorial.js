@@ -14,3 +14,8 @@ const factorialRecursive = n => {
 }
 
 module.exports = { factorialIterative, factorialRecursive }
+
+if (require.main === module) { 
+  console.log(factorialIterative(10));
+  console.log(factorialRecursive(10));
+}

@@ -1,11 +1,12 @@
 # Find Minimum in Rotated Sorted Array
+
 [LeetCode](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) 
 |
 [Solution](153_find-minimum-in-rotated-sorted-array.js)
 |
 Array
 
-This document explains two solutions for the LeetCode problem [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/). The problem involves finding the smallest element in a rotated sorted array of unique integers.
+The problem involves finding the smallest element in a rotated sorted array of unique integers.
 
 ## Problem Description
 

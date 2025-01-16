@@ -37,3 +37,9 @@ const fibonacciMemoization = () => { //O(n)
 }
 
 module.exports = { fibonacciRecursive, fibonacciIterative, fibonacciMemoized: fibonacciMemoization() }
+
+if (require.main === module) { 
+  console.log(fibonacciRecursive(10));
+  console.log(fibonacciIterative(100));
+  console.log(fibonacciMemoized(100));
+}

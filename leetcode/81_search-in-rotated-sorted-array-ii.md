@@ -1,5 +1,10 @@
 # Search in Rotated Sorted Array II
-[LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
+
+[LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) 
+|
+[Solution](81_search-in-rotated-sorted-array-ii.js)
+|
+Array 
 
 The problem involves finding whether a target element exists in a rotated sorted array, where duplicates are allowed.
 

@@ -1,7 +1,7 @@
 # Unique Paths Problem
 [LeetCode](https://leetcode.com/problems/unique-paths/) 
 |
-[Solution](dp_62_Unique_Paths.js) 
+[Solution](62_Unique_Paths.js) 
 | 
 Dynamic Programming
 

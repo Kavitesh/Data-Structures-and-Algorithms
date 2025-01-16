@@ -2,7 +2,7 @@
 
 [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
 |
-[Solution](dp_309_best-time-to-buy-and-sell-stock-with-cooldown.js)
+[Solution](309_best-time-to-buy-and-sell-stock-with-cooldown.js)
 |
 Dynamic Programming
 

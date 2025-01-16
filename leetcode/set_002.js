@@ -59,7 +59,7 @@ var coinChange2 = function(coins, amount) {
 };
 
 
-module.exports = () => {
+if (require.main === module) { 
   //https://leetcode.com/problems/unique-paths/
   // [ 1, 1, 1,  1,  1,  1,  1]
   // [ 1, 2, 3,  4,  5,  6,  7]

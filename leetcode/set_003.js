@@ -1,6 +1,6 @@
-https://leetcode.com/problems/search-in-rotated-sorted-array-ii/
-https://leetcode.com/problems/search-in-rotated-sorted-array/
-https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+//https://leetcode.com/problems/search-in-rotated-sorted-array-ii/
+//https://leetcode.com/problems/search-in-rotated-sorted-array/
+//https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
 function search(nums, target) {
     let left = 0;
     let right = nums.length - 1;
@@ -36,4 +36,14 @@ function search(nums, target) {
     }
 
     return -1; // Minimum return nums[left]
+}
+
+if (require.main === module) {  
+    console.log("This is the main execution block");
+    console.log(search([4, 5, 6, 7, 0, 1, 2], 0)); // Output: 4
+    console.log(search([4, 5, 6, 7, 0, 1, 2], 3)); // Output: -1
+}
+
+module.exports = {    
+    search
 }

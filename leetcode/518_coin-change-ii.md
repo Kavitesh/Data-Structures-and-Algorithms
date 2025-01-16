@@ -2,7 +2,7 @@
 
 [LeetCode](https://leetcode.com/problems/coin-change-ii/)
 |
-[Solution](dp_518_coin-change-ii.js)
+[Solution](518_coin-change-ii.js)
 |
 Dynamic Programming
 

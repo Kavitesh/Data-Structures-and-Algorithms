@@ -1,7 +1,7 @@
 # Maximum Subarray Problem 
 [LeetCode](https://leetcode.com/problems/maximum-subarray/) 
 |
-[Solution](dp_53_maximum-subarray.js)
+[Solution](53_maximum-subarray.js)
 |
 Dynamic Programming
 
