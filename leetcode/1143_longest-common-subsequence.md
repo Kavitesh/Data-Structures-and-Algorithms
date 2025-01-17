@@ -1,5 +1,5 @@
 # Longest Common Subsequence (LCS)
-[LeetCode](https://leetcode.com/problems/longest-common-subsequence/) 
+[LeetCode](https://leetcode.com/problems/combination-sum/) 
 |
 [Solution](1143_longest-common-subsequence.js)
 |
