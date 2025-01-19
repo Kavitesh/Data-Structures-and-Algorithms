@@ -1,6 +1,6 @@
 # Combination Sum Problem
 
-[LeetCode](https://leetcode.com/problems/longest-common-subsequence/) 
+[LeetCode](https://leetcode.com/problems/combination-sum/) 
 |
 [Solution](39_combination-sum.js)
 |
