@@ -45,10 +45,10 @@ target = 8
 
 The key differences from the original Combination Sum problem are:
 1. Each candidate can only be used once.
-2. We need to handle duplicate values in `candidates` carefully to avoid duplicate combinations.
+2. We must carefully handle duplicate values in `candidates` to avoid duplicate combinations.
 
 ### Steps to Solve:
-1. **Sort the Candidates:** Sorting helps in managing duplicates and ensures combinations are generated in lexicographical order.
+1. **Sort the Candidates:** Sorting helps manage duplicates and ensures combinations are generated in lexicographical order.
 2. **Recursive Backtracking:**
    - Explore each candidate, reducing the target.
    - Skip duplicates within the same recursive depth.
