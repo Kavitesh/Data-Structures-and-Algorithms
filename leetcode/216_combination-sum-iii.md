@@ -15,7 +15,7 @@ Find all valid combinations of `k` numbers that sum up to `n` such that only num
 ### Constraints:
 1. Each number from `1` to `9` can be used at most once.
 2. The solution set must not contain duplicate combinations.
-3. \(1 \leq k \leq 9\), \(1 \leq n \leq 45\).
+3. 2 <= k <= 9, 1 <= n <= 60.
 
 ---
 
