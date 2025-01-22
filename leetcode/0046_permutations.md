@@ -43,7 +43,7 @@ nums = [1, 2, 3]
 ---
 
 ## Approach
-
+https://leetcode.com/problems/permutations/solutions/993970/python-4-approaches-visuals-time-complexity-analysis/
 This problem can be solved using **Backtracking**. The idea is to build permutations recursively by swapping elements and exploring all possible arrangements.
 
 ### Steps to Solve:
