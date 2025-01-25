@@ -43,7 +43,7 @@ nums = [1, 1, 2]
 
 ## Approach
 
-To solve this problem, we use **Backtracking** with a strategy to skip duplicate permutations. This involves sorting the input array and ensuring that no duplicate elements are considered more than once at the same recursive level.
+To solve this problem, we use **Backtracking** to skip duplicate permutations. This involves sorting the input array and ensuring that no duplicate elements are considered more than once at the same recursive level.
 
 ### Steps to Solve:
 1. **Sort the Input:** Sorting helps identify duplicate elements and allows for easy skipping during backtracking.
